@@ -121,7 +121,7 @@ body {
 }
 
 .w3l-main {
-    background: url(../images/bg.jpg) no-repeat center;
+    background: url(https://www.talklee.com/api/bing?rand=true) no-repeat center;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -172,7 +172,7 @@ body {
     display: inline-block;
     line-height:52px;
     transition: 0.5s;
-    margin-top:34px;
+    margin-top:54px;
 }
 .w3l-main .backw3l:hover{
     background:#fff;
@@ -184,7 +184,7 @@ h1.cover-para.w3ls {
     text-align: right;
     color: #fff;
     display: inline-block;
-    font-weight: 700;
+    font-weight: 600;
 }
 h2{
     font-size: 40px;
